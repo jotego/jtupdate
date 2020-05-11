@@ -11,6 +11,7 @@ Ideally the scripts should make user life nice:
 -download required RBF files
 -download required MRA files
 -do not break user's system
+-be open to independent content providers
 -be open to configuration files
 -be open to user-customized folder schemes
 -listen to user requests
